@@ -37,6 +37,9 @@ Decimal:
 Decipher (verb):
 (1) To decrypt an encrypted message
 
+Deserialize:
+(1) Reconstruct an object from a series of bytes
+
 Digest:
 (1) The digest, or message digest, is the fixed-length output of a hash function (like MD5 or SHA-256)
 
@@ -76,6 +79,9 @@ Program:
 
 Programming language:
 (1) A language that can be compiled or interpreted into machine code.
+
+Serialize:
+(1) Convert an object and its data into a series of bytes
 
 Thread:
 (1) A single list of executable instructions stored in memory under a start address
