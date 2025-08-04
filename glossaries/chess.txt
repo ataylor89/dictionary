@@ -1,0 +1,27 @@
+Check:
+(1) A move that attacks the opponent's king
+
+Checkmate:
+(1) A check that cannot be escaped
+
+Chess notation:
+(1) A language for writing down chess moves and recording a chess game
+
+Combination:
+(1) A tactic that consists of two or more moves
+
+Endgame:
+(1) The third phase of a chess game, when queens have been traded and queens are no longer on the board
+
+Middlegame:
+(1) The second phase of a chess game, after the players have finished their development
+
+Opening:
+(1) The first phase of a chess game, where both players develop their pieces
+
+Strategy:
+(1) A plan
+(2) The part of chess concerned with planning
+
+Tactic:
+(1) A short sequence of moves that yields an advantage or a winning advantage
