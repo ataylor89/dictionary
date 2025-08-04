@@ -29,7 +29,7 @@ Function:
 (2) A rule that assigns to every input exactly one output
 
 Fundamental theorem of algebra:
-(1) For any polynomial P(x) of degree n the following two statements are true: P(x) = 0 has exactly n complex solutions, and P(x) can be written as a(x - r1)(x - r2)...(x - rn) where a is the leading coefficient of P(x) and r1, r2, ..., rn is a sequence of n complex numbers, which are called the "roots" of the polynomial.
+(1) For any polynomial P(x) of degree n (n is a positive integer) the following two statements are true: P(x) = 0 has exactly n complex solutions, and P(x) can be written as a(x - r1)(x - r2)...(x - rn) where a is the leading coefficient of P(x) and r1, r2, ..., rn is a sequence of n complex numbers, which are called the "roots" of the polynomial.
 
 Fundamental theorem of arithmetic:
 (1) The fundamental theorem of arithmetic states that every positive integer greater than one has a unique prime factorization
