@@ -38,7 +38,7 @@ Fundamental theorem of arithmetic:
 (1) The fundamental theorem of arithmetic states that every positive integer greater than one has a unique prime factorization
 
 Fundamental theorem of calculus:
-(1) Let f(x) be a real-valued function that is continuous on [a, b]. The definite integral of f(x) on [a, b] is F(b) - F(a), where F is any antiderivative of f(x).
+(1) Let f(x) be a real-valued function that is continuous on [a, b]. The definite integral of f(x) on [a, b] is F(b) - F(a), where F is any antiderivative of f.
 
 Geometry:
 (1) The study of shapes
