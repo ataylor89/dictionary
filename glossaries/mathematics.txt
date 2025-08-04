@@ -19,6 +19,7 @@ Derivative:
 f'(x) = lim h->0 (f(x + h) - f(x)) / h
 
 at every point x in the domain of f(x) where the limit is defined. (Source: Art of Problem Solving)
+(2) The slope of a function
 
 Combinatorics:
 (1) The field of mathematics concerned with counting
@@ -26,6 +27,7 @@ Combinatorics:
 Definite integral:
 (1) Let f(x) be a real-valued function that is continuous on [a, b]. The definite integral of f(x) on [a, b] is the Riemann sum approximating the area under the curve as the number of rectangles approaches infinity.
 (2) Let f(x) be a real-valued function that is continuous on [a, b]. The definite integral of f(x) on [a, b] is the Riemann sum from a to b as the number of rectangles approaches infinity.
+(3) The area under the curve
 
 Function:
 (1) A rule assigning to every input exactly one output
