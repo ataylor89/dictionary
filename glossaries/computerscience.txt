@@ -46,6 +46,9 @@ Digest:
 File:
 (1) A sequence of bytes stored on the hard drive under a path and a filename
 
+Filter:
+(1) A device that separates an input stream into two categories (what gets filtered in and what gets filtered out)
+
 Hexadecimal:
 (1) A number system in base 16
 
@@ -82,6 +85,13 @@ Programming language:
 
 Serialize:
 (1) Convert an object and its data into a series of bytes
+
+Sieve:
+(1) A sieve is a filter; the kitchen colander is a type of sieve
+
+Table:
+(1) Table is really just a synonym for database (a table can be a list, a map, a MySQL table, etc)
+(2) A table is a database
 
 Thread:
 (1) A single list of executable instructions stored in memory under a start address
