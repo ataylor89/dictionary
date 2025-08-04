@@ -15,9 +15,7 @@ Calculus:
 
 Derivative:
 (1) The derivative of a function f(x) is a function f'(x) such that...
-
 f'(x) = lim h->0 (f(x + h) - f(x)) / h
-
 at every point x in the domain of f(x) where the limit is defined. (Source: Art of Problem Solving)
 (2) The slope of a function
 
