@@ -69,8 +69,9 @@ Probability:
 
 Proof:
 (1) A correct argument
-(2) A sequence of statements that demonstrates a conclusion is true
-(3) A sequence of steps that demonstrates a conclusion is true
+(2) An argument that is correct
+(3) A sequence of statements that demonstrates a conclusion is true
+(4) A sequence of steps that demonstrates a conclusion is true
 
 Risk:
 (1) A probability
