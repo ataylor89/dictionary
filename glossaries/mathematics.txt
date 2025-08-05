@@ -67,6 +67,11 @@ Probability:
 (1) Chance, likelihood
 (2) The study of chance, probability, or likelihood
 
+Proof:
+(1) A correct argument
+(2) A sequence of statements that demonstrates a conclusion is true
+(3) A sequence of steps that demonstrates a conclusion is true
+
 Risk:
 (1) A probability
 (2) A probability measurement from 0% to 100%
