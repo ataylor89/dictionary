@@ -8,7 +8,7 @@ Chess notation:
 (1) A language for writing down chess moves and recording a chess game
 
 Combination:
-(1) A tactic that consists of two or more moves
+(1) A tactic that involves a sacrifice
 
 Endgame:
 (1) The third phase of a chess game, when queens have been traded and queens are no longer on the board
