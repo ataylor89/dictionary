@@ -1,0 +1,6 @@
+Fact:
+(1) A truth
+(2) A certainty
+
+Theory:
+(1) A hypothesis
