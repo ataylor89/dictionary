@@ -10,6 +10,7 @@ Chess notation:
 Combination:
 (1) A tactic that involves a sacrifice
 (2) A swashbuckling tactic
+(3) A combination of tactics
 
 Endgame:
 (1) The third phase of a chess game, when queens have been traded and queens are no longer on the board
