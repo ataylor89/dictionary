@@ -2,7 +2,7 @@ Check:
 (1) A move that attacks the opponent's king
 
 Checkmate:
-(1) A check that traps the opponent's king
+(1) A check that cannot be escaped
 
 Chess notation:
 (1) A language for writing down chess moves and recording a chess game
