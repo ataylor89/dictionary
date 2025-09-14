@@ -28,4 +28,4 @@ Strategy:
 Tactic:
 (1) An attack
 (2) A quick attack
-(3) A short sequence of moves that yields an advantage or a winning advantage
+(3) A short sequence of moves that yields an advantage
